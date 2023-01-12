@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'Read More' => 'Read More',
+    'Get Started' => 'Get Started',
+    'We\'ve created more than' => 'We\'ve created more than',
+    '5 App & websites' => '5 App & websites',
+    'this year!' => 'this year!',
+    'This success is due to the quality of the services that we provide thanks to our professional team, and we offer the lowest possible price with the best quality in the shortest time.'=>'This success is due to the quality of the services that we provide thanks to our professional team, and we offer the lowest possible price with the best quality in the shortest time.',
+    'Connect Us' => 'Connect Us',
+    'Team Work' => 'Team Work',
+    'We have the best team that is capable of what it does with more than 3 years of experience'=>'We have the best team that is capable of what it does with more than 3 years of experience',
+    'Accomplish Tasks' => 'Accomplish Tasks',
+    'SEO'=>'SEO',
+    'We also provide easy access and dealing for users and companies and the best SEO methods'=>'We also provide easy access and dealing for users and companies and the best SEO methods',
+    'Problem Solving'=>'Problem Solving',
+    'Continuous search for errors while ensuring that there is no error that the customer may encounter'=>'Continuous search for errors while ensuring that there is no error that the customer may encounter',
+    'Support Team'=>'Support Team',
+    'We also provide a service throughout the day to solve the problem'=>'We also provide a service throughout the day to solve the problem',
+    'Order Required'=>'Order Required',
+    'Delivery required on time without delay'=>'Delivery required on time without delay',
+    'All'=>'All',
+    'Our'=>'Our',
+    'Clients'=>'Clients',
+    'These are some of our distinguished clients whose companies have become successful thanks to our services'=>'These are some of our distinguished clients whose companies have become successful thanks to our services',
+];

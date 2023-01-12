@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'home' =>'Home',
+    'about' =>'About',
+    'services' =>'Services',
+    'portfolio' =>'Portfolio',
+    'testimonials' =>'Testimonials',
+    'plan' =>'Plan',
+    'Keystone' =>'Keystone',
+    'Phone' =>'Phone',
+    'Email' =>'Email',
+    'contact' =>'Contact',
+    'DESOK'=> 'DESOK',
+    'EGYPT'=> 'EGYPT',
+    '16 Street'=> '16 Street',
+    'Useful Links'=> 'Useful Links',
+    'Our Services'=> 'Our Services',
+    'App Development'=> 'App Development',
+    'Web Development'=> 'Web Development',
+    'UI/UX Design'=> 'UI/UX Design',
+    'Web Designer'=> 'Web Designer',
+    'BackEnd Development'=> 'BackEnd Development',
+    'All Rights Reserved'=> 'All Rights Reserved',
+    'Keystone Programing'=> 'Keystone Programing',
+];
