@@ -63,17 +63,17 @@
                     <form role="form" class="php-email-form" wire:submit.prevent="sendMessage">
                         <div class="row">
                             <div class="col-md-6 form-group">
-                                <input type="text" name="name" class="form-control" id="name" placeholder="{{ __('Contact.Your Name')}}" wire:model="name" >
+                                <input type="text" name="name" class="form-control" id="name" placeholder="{{ __('Contact.Your Name')}}" wire:model="name" required>
                             </div>
                             <div class="col-md-6 form-group mt-3 mt-md-0">
-                                <input  class="form-control" name="email" id="email" placeholder="{{ __('Contact.Your Email OR Phone')}}" wire:model="email">
+                                <input  class="form-control" name="email" id="email" placeholder="{{ __('Contact.Your Email OR Phone')}}" wire:model="email" required>
                             </div>
                         </div>
                         <div class="form-group mt-3">
-                            <input type="text" class="form-control" name="subject" id="subject" placeholder="{{ __('Contact.Subject')}}" wire:model="subject">
+                            <input type="text" class="form-control" name="subject" id="subject" placeholder="{{ __('Contact.Subject')}}" wire:model="subject" required>
                         </div>
                         <div class="form-group mt-3">
-                            <textarea class="form-control" name="message" rows="5" placeholder="{{ __('Contact.Message')}}" wire:model="message"></textarea>
+                            <textarea class="form-control" name="message" rows="5" placeholder="{{ __('Contact.Message')}}" wire:model="message" required></textarea>
                         </div>
                         <div class="text-center"><button type="submit">{{ __('Contact.Send Message')}}</button></div>
                     </form>
